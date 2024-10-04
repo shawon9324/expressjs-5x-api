@@ -1,0 +1,13 @@
+{
+  "name": "expressjs-5x-api",
+  "version": "1.0.0",
+  "description": "Explore Features of Express.JS 5.x API reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Shahriar Karim Shawon",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
